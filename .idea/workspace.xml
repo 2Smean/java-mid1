@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="265d084e-1f52-4260-b481-32786cc9e2d2" name="Changes" comment="" />
+    <list default="true" id="265d084e-1f52-4260-b481-32786cc9e2d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EqualsMainV1.executor": "Run",
     "Application.ObjectMain.executor": "Run",
     "Application.ObjectPolyExample1.executor": "Run",
     "Application.ObjectPolyExample2.executor": "Run",
@@ -47,7 +50,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ToStringMain2">
+  <component name="RunManager" selected="Application.EqualsMainV1">
+    <configuration name="EqualsMainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.object.equals.EqualsMainV1" />
+      <module name="java-mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.object.equals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lang.object.ObjectMain" />
       <module name="java-mid1" />
@@ -102,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualsMainV1" />
         <item itemvalue="Application.ToStringMain2" />
         <item itemvalue="Application.ObjectPolyExample2" />
         <item itemvalue="Application.ObjectPolyExample1" />
@@ -121,7 +138,8 @@
       <workItem from="1724053965901" duration="1080000" />
       <workItem from="1724139410927" duration="766000" />
       <workItem from="1724140588142" duration="598000" />
-      <workItem from="1724237422193" duration="2718000" />
+      <workItem from="1724237422193" duration="2878000" />
+      <workItem from="1724334166243" duration="790000" />
     </task>
     <servers />
   </component>
