@@ -33,6 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.EqualsMainV1.executor": "Run",
+    "Application.EqualsMainV2.executor": "Run",
     "Application.ObjectMain.executor": "Run",
     "Application.ObjectPolyExample1.executor": "Run",
     "Application.ObjectPolyExample2.executor": "Run",
@@ -50,7 +51,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EqualsMainV1">
+  <component name="RunManager" selected="Application.EqualsMainV2">
     <configuration name="EqualsMainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lang.object.equals.EqualsMainV1" />
       <module name="java-mid1" />
@@ -64,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.object.ObjectMain" />
+    <configuration name="EqualsMainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.object.equals.EqualsMainV2" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.object.*" />
+          <option name="PATTERN" value="lang.object.equals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualsMainV2" />
         <item itemvalue="Application.EqualsMainV1" />
         <item itemvalue="Application.ToStringMain2" />
         <item itemvalue="Application.ObjectPolyExample2" />
         <item itemvalue="Application.ObjectPolyExample1" />
-        <item itemvalue="Application.ObjectMain" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +140,8 @@
       <workItem from="1724139410927" duration="766000" />
       <workItem from="1724140588142" duration="598000" />
       <workItem from="1724237422193" duration="2878000" />
-      <workItem from="1724334166243" duration="790000" />
+      <workItem from="1724334166243" duration="1569000" />
+      <workItem from="1724385772283" duration="519000" />
     </task>
     <servers />
   </component>
