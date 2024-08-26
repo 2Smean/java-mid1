@@ -30,28 +30,28 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.EqualsMainV1.executor": "Run",
-    "Application.EqualsMainV2.executor": "Run",
-    "Application.ObjectMain.executor": "Run",
-    "Application.ObjectPolyExample1.executor": "Run",
-    "Application.ObjectPolyExample2.executor": "Run",
-    "Application.ToStringMain2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/iseungmin/Desktop/Lee/java-mid1/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EqualsMainV1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualsMainV2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectPolyExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObjectPolyExample2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ToStringMain2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/iseungmin/Desktop/Lee/java-mid1/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.EqualsMainV2">
+}</component>
+  <component name="RunManager" selected="Application.RactangleMain">
     <configuration name="EqualsMainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lang.object.equals.EqualsMainV1" />
       <module name="java-mid1" />
@@ -78,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectPolyExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.object.poly.ObjectPolyExample1" />
+    <configuration name="ObjectPolyExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.object.poly.ObjectPolyExample2" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectPolyExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.object.poly.ObjectPolyExample2" />
+    <configuration name="RactangleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.object.test.RactangleMain" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.object.poly.*" />
+          <option name="PATTERN" value="lang.object.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RactangleMain" />
         <item itemvalue="Application.EqualsMainV2" />
         <item itemvalue="Application.EqualsMainV1" />
         <item itemvalue="Application.ToStringMain2" />
         <item itemvalue="Application.ObjectPolyExample2" />
-        <item itemvalue="Application.ObjectPolyExample1" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,8 @@
       <workItem from="1724140588142" duration="598000" />
       <workItem from="1724237422193" duration="2878000" />
       <workItem from="1724334166243" duration="1569000" />
-      <workItem from="1724385772283" duration="519000" />
+      <workItem from="1724385772283" duration="1869000" />
+      <workItem from="1724641330770" duration="713000" />
     </task>
     <servers />
   </component>
