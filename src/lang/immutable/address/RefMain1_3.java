@@ -8,9 +8,9 @@ public class RefMain1_3 {
         System.out.println("a = " + a);
         System.out.println("b = " + b);
 
-        b.setValue("부산"); 
+        change(b, "부산");
         System.out.println("부산 -> b");
-        System.out.println("a = " + a);
+        System.out.println("a = " + a); //사이드 이펙트 발생
         System.out.println("b = " + b);
     }
 
