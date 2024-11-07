@@ -51,6 +51,7 @@
     "Application.RefMain1_3.executor": "Run",
     "Application.RefMain2.executor": "Run",
     "Application.StringBasicMain.executor": "Run",
+    "Application.StringChangeMain1.executor": "Run",
     "Application.StringComparisonMain.executor": "Run",
     "Application.StringConcatMain.executor": "Run",
     "Application.StringEqualsMain1.executor": "Run",
@@ -82,9 +83,9 @@
       <recent name="lang.immutable.address" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringSearchMain">
-    <configuration name="StringComparisonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringComparisonMain" />
+  <component name="RunManager" selected="Application.StringChangeMain2">
+    <configuration name="StringChangeMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringChangeMain1" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringImmutable1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.immutable.StringImmutable1" />
+    <configuration name="StringChangeMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringChangeMain2" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.immutable.*" />
+          <option name="PATTERN" value="lang.string.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringImmutable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.immutable.StringImmutable2" />
+    <configuration name="StringComparisonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringComparisonMain" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.immutable.*" />
+          <option name="PATTERN" value="lang.string.method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringChangeMain2" />
+        <item itemvalue="Application.StringChangeMain1" />
         <item itemvalue="Application.StringSearchMain" />
         <item itemvalue="Application.StringComparisonMain" />
         <item itemvalue="Application.StringInfoMain" />
-        <item itemvalue="Application.StringImmutable2" />
-        <item itemvalue="Application.StringImmutable1" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +179,8 @@
       <workItem from="1726051032672" duration="1652000" />
       <workItem from="1726151453323" duration="1955000" />
       <workItem from="1730207144240" duration="5699000" />
-      <workItem from="1730705895675" duration="1737000" />
+      <workItem from="1730705895675" duration="2394000" />
+      <workItem from="1730982421354" duration="317000" />
     </task>
     <servers />
   </component>
