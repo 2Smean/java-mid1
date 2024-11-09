@@ -10,5 +10,6 @@ public class StringChangeMain2 {
 
         System.out.println("공백 제거(trim): '" + strWithSpaces.trim() + "'"); // 단순 Whitespace 만 제거 가능
         System.out.println("공백 제거(strip): '" + strWithSpaces.strip() + "'"); // Whitespace + 유니 코드 공백 제거 가능
+        System.out.println("앞 공백 제거(strip): '" + strWithSpaces.stripLeading() + "'"); // Whitespace + 유니 코드 공백 제거 가능
     }
 }
