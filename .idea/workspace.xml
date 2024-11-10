@@ -61,6 +61,9 @@
     "Application.StringImmutable2.executor": "Run",
     "Application.StringInfoMain.executor": "Run",
     "Application.StringSearchMain.executor": "Run",
+    "Application.StringSplitJoinMain.executor": "Run",
+    "Application.StringUtilsMain1.executor": "Run",
+    "Application.StringUtilsMain2.executor": "Run",
     "Application.ToStringMain2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -84,7 +87,7 @@
       <recent name="lang.immutable.address" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringChangeMain2">
+  <component name="RunManager" selected="Application.StringUtilsMain2">
     <configuration name="StringChangeMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lang.string.method.StringChangeMain1" />
       <module name="java-mid1" />
@@ -111,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringComparisonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringComparisonMain" />
+    <configuration name="StringSplitJoinMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringSplitJoinMain" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringInfoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringInfoMain" />
+    <configuration name="StringUtilsMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringUtilsMain1" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSearchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringSearchMain" />
+    <configuration name="StringUtilsMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringUtilsMain2" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
@@ -152,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringUtilsMain2" />
+        <item itemvalue="Application.StringUtilsMain1" />
+        <item itemvalue="Application.StringSplitJoinMain" />
         <item itemvalue="Application.StringChangeMain2" />
         <item itemvalue="Application.StringChangeMain1" />
-        <item itemvalue="Application.StringSearchMain" />
-        <item itemvalue="Application.StringComparisonMain" />
-        <item itemvalue="Application.StringInfoMain" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +185,7 @@
       <workItem from="1730207144240" duration="5699000" />
       <workItem from="1730705895675" duration="2394000" />
       <workItem from="1730982421354" duration="1251000" />
+      <workItem from="1731164272858" duration="3820000" />
     </task>
     <servers />
   </component>
