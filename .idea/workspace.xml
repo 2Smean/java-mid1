@@ -87,13 +87,13 @@
       <recent name="lang.immutable.address" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringUtilsMain2">
-    <configuration name="StringChangeMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringChangeMain1" />
+  <component name="RunManager" selected="Application.StringBuilderMain1_1">
+    <configuration name="StringBuilderMain1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.equals.StringBuilderMain1_1" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.method.*" />
+          <option name="PATTERN" value="lang.string.equals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringBuilderMain1_1" />
         <item itemvalue="Application.StringUtilsMain2" />
         <item itemvalue="Application.StringUtilsMain1" />
         <item itemvalue="Application.StringSplitJoinMain" />
         <item itemvalue="Application.StringChangeMain2" />
-        <item itemvalue="Application.StringChangeMain1" />
       </list>
     </recent_temporary>
   </component>
