@@ -1,4 +1,4 @@
-package lang.string.equals;
+package lang.string.builder;
 
 public class StringBuilderMain1_1 {
 
