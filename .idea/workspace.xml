@@ -84,6 +84,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.string.builder" />
       <recent name="lang.immutable" />
       <recent name="lang.immutable.test" />
       <recent name="lang.immutable.change" />
@@ -191,7 +192,7 @@
       <workItem from="1731164272858" duration="4460000" />
       <workItem from="1731335408600" duration="599000" />
       <workItem from="1731509257866" duration="862000" />
-      <workItem from="1731591221961" duration="474000" />
+      <workItem from="1731591221961" duration="705000" />
     </task>
     <servers />
   </component>
