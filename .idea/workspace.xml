@@ -42,6 +42,8 @@
     "Application.MemberMainV1.executor": "Run",
     "Application.MemberMainV2.executor": "Run",
     "Application.MethodChaningMain1.executor": "Run",
+    "Application.MethodChaningMain2.executor": "Run",
+    "Application.MethodChaningMain3.executor": "Run",
     "Application.MutableMain.executor": "Run",
     "Application.MyDateMain.executor": "Run",
     "Application.ObjectMain.executor": "Run",
@@ -55,6 +57,7 @@
     "Application.RefMain2.executor": "Run",
     "Application.StringBasicMain.executor": "Run",
     "Application.StringBuilderMain1_1.executor": "Run",
+    "Application.StringBuilderMain1_2.executor": "Run",
     "Application.StringChangeMain1.executor": "Run",
     "Application.StringChangeMain2.executor": "Run",
     "Application.StringComparisonMain.executor": "Run",
@@ -86,41 +89,41 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lang.string.builder" />
+      <recent name="lang.string.Chaining" />
       <recent name="lang.immutable" />
       <recent name="lang.immutable.test" />
       <recent name="lang.immutable.change" />
-      <recent name="lang.immutable.address" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodChaningMain1">
-    <configuration name="LoopStringBuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.builder.LoopStringBuilderMain" />
-      <module name="java-mid1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lang.string.builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoopStringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.builder.LoopStringMain" />
-      <module name="java-mid1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lang.string.builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringBuilderMain1_1">
     <configuration name="MethodChaningMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lang.string.Chaining.MethodChaningMain1" />
+      <module name="java-mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.string.Chaining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodChaningMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.Chaining.MethodChaningMain2" />
+      <module name="java-mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.string.Chaining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodChaningMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.Chaining.MethodChaningMain3" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
@@ -145,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringUtilsMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringUtilsMain2" />
+    <configuration name="StringBuilderMain1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.builder.StringBuilderMain1_2" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.method.*" />
+          <option name="PATTERN" value="lang.string.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodChaningMain1" />
-        <item itemvalue="Application.LoopStringBuilderMain" />
-        <item itemvalue="Application.LoopStringMain" />
         <item itemvalue="Application.StringBuilderMain1_1" />
-        <item itemvalue="Application.StringUtilsMain2" />
+        <item itemvalue="Application.StringBuilderMain1_2" />
+        <item itemvalue="Application.MethodChaningMain3" />
+        <item itemvalue="Application.MethodChaningMain2" />
+        <item itemvalue="Application.MethodChaningMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +199,7 @@
       <workItem from="1731591221961" duration="705000" />
       <workItem from="1731682309425" duration="970000" />
       <workItem from="1731849660389" duration="1235000" />
-      <workItem from="1731941574947" duration="321000" />
+      <workItem from="1731941574947" duration="3476000" />
     </task>
     <servers />
   </component>
