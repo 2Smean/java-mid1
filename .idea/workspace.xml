@@ -71,6 +71,12 @@
     "Application.StringSplitJoinMain.executor": "Run",
     "Application.StringUtilsMain1.executor": "Run",
     "Application.StringUtilsMain2.executor": "Run",
+    "Application.TestString1.executor": "Run",
+    "Application.TestString2.executor": "Debug",
+    "Application.TestString3.executor": "Run",
+    "Application.TestString4.executor": "Run",
+    "Application.TestString5.executor": "Run",
+    "Application.TestString6.executor": "Run",
     "Application.ToStringMain2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -95,13 +101,13 @@
       <recent name="lang.immutable.change" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringBuilderMain1_1">
-    <configuration name="MethodChaningMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.Chaining.MethodChaningMain1" />
+  <component name="RunManager" selected="Application.TestString7">
+    <configuration name="TestString3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString3" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.Chaining.*" />
+          <option name="PATTERN" value="lang.string.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodChaningMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.Chaining.MethodChaningMain2" />
+    <configuration name="TestString4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString4" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.Chaining.*" />
+          <option name="PATTERN" value="lang.string.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodChaningMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.Chaining.MethodChaningMain3" />
+    <configuration name="TestString5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString5" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.Chaining.*" />
+          <option name="PATTERN" value="lang.string.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderMain1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.builder.StringBuilderMain1_1" />
+    <configuration name="TestString6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString6" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.builder.*" />
+          <option name="PATTERN" value="lang.string.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilderMain1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.builder.StringBuilderMain1_2" />
+    <configuration name="TestString7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString7" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.builder.*" />
+          <option name="PATTERN" value="lang.string.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringBuilderMain1_1" />
-        <item itemvalue="Application.StringBuilderMain1_2" />
-        <item itemvalue="Application.MethodChaningMain3" />
-        <item itemvalue="Application.MethodChaningMain2" />
-        <item itemvalue="Application.MethodChaningMain1" />
+        <item itemvalue="Application.TestString7" />
+        <item itemvalue="Application.TestString6" />
+        <item itemvalue="Application.TestString5" />
+        <item itemvalue="Application.TestString4" />
+        <item itemvalue="Application.TestString3" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +205,7 @@
       <workItem from="1731591221961" duration="705000" />
       <workItem from="1731682309425" duration="970000" />
       <workItem from="1731849660389" duration="1235000" />
-      <workItem from="1731941574947" duration="3476000" />
+      <workItem from="1731941574947" duration="7607000" />
     </task>
     <servers />
   </component>
