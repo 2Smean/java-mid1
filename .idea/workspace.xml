@@ -72,11 +72,16 @@
     "Application.StringUtilsMain1.executor": "Run",
     "Application.StringUtilsMain2.executor": "Run",
     "Application.TestString1.executor": "Run",
+    "Application.TestString10.executor": "Run",
+    "Application.TestString11.executor": "Run",
     "Application.TestString2.executor": "Debug",
     "Application.TestString3.executor": "Run",
     "Application.TestString4.executor": "Run",
     "Application.TestString5.executor": "Run",
     "Application.TestString6.executor": "Run",
+    "Application.TestString7.executor": "Run",
+    "Application.TestString8.executor": "Run",
+    "Application.TestString9.executor": "Run",
     "Application.ToStringMain2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -101,9 +106,9 @@
       <recent name="lang.immutable.change" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestString7">
-    <configuration name="TestString3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString3" />
+  <component name="RunManager" selected="Application.TestString11">
+    <configuration name="TestString10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString10" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
@@ -115,34 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString4" />
-      <module name="java-mid1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lang.string.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestString5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString5" />
-      <module name="java-mid1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lang.string.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestString6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString6" />
+    <configuration name="TestString11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString11" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
@@ -167,13 +146,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestString8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString8" />
+      <module name="java-mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.string.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestString9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString9" />
+      <module name="java-mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.string.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestString11" />
+        <item itemvalue="Application.TestString10" />
+        <item itemvalue="Application.TestString9" />
+        <item itemvalue="Application.TestString8" />
         <item itemvalue="Application.TestString7" />
-        <item itemvalue="Application.TestString6" />
-        <item itemvalue="Application.TestString5" />
-        <item itemvalue="Application.TestString4" />
-        <item itemvalue="Application.TestString3" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +210,7 @@
       <workItem from="1731591221961" duration="705000" />
       <workItem from="1731682309425" duration="970000" />
       <workItem from="1731849660389" duration="1235000" />
-      <workItem from="1731941574947" duration="7607000" />
+      <workItem from="1731941574947" duration="9037000" />
     </task>
     <servers />
   </component>
