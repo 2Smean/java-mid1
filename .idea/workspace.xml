@@ -32,6 +32,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AutoboxingMain1.executor": "Run",
     "Application.CharArrayMain.executor": "Run",
     "Application.EqualsMainV1.executor": "Run",
     "Application.EqualsMainV2.executor": "Run",
@@ -58,6 +59,7 @@
     "Application.RefMain1_2.executor": "Run",
     "Application.RefMain1_3.executor": "Run",
     "Application.RefMain2.executor": "Run",
+    "Application.Sex.executor": "Run",
     "Application.StringBasicMain.executor": "Run",
     "Application.StringBuilderMain1_1.executor": "Run",
     "Application.StringBuilderMain1_2.executor": "Run",
@@ -110,9 +112,22 @@
       <recent name="lang.immutable.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WrapperClassMain">
-    <configuration name="MyIntegerMethodMain0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.wrapper.MyIntegerMethodMain0" />
+  <component name="RunManager" selected="Application.AutoboxingMain2">
+    <configuration name="AutoboxingMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.wrapper.AutoboxingMain1" />
+      <module name="java-mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.wrapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AutoboxingMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.wrapper.AutoboxingMain2" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
@@ -150,19 +165,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString11" />
-      <module name="java-mid1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lang.string.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WrapperClassMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lang.wrapper.WrapperClassMain" />
       <module name="java-mid1" />
@@ -178,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AutoboxingMain2" />
+        <item itemvalue="Application.AutoboxingMain1" />
         <item itemvalue="Application.WrapperClassMain" />
         <item itemvalue="Application.MyIntegerNullMain1" />
         <item itemvalue="Application.MyIntegerNullMain0" />
-        <item itemvalue="Application.MyIntegerMethodMain0" />
-        <item itemvalue="Application.TestString11" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +218,8 @@
       <workItem from="1731849660389" duration="1235000" />
       <workItem from="1731941574947" duration="11410000" />
       <workItem from="1732195557736" duration="599000" />
-      <workItem from="1732263332020" duration="531000" />
+      <workItem from="1732263332020" duration="859000" />
+      <workItem from="1732352411429" duration="5118000" />
     </task>
     <servers />
   </component>
