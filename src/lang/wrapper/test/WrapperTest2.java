@@ -1,6 +1,6 @@
 package lang.wrapper.test;
 
-public class WrappeTest2 {
+public class WrapperTest2 {
 
     public static void main(String[] args) {
         String[] array = {"1.5", "2.5", "3.0"};
