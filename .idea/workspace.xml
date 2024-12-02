@@ -116,11 +116,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.wrapper.test" />
       <recent name="lang.wrapper" />
       <recent name="lang.string.builder" />
       <recent name="lang.string.Chaining" />
       <recent name="lang.immutable" />
-      <recent name="lang.immutable.test" />
     </key>
   </component>
   <component name="RunManager" selected="Application.WrapperTest3">
@@ -150,8 +150,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrappeTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrappeTest2" />
+    <configuration name="WrapperTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest1" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
@@ -163,8 +163,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest1" />
+    <configuration name="WrapperTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest2" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
@@ -192,7 +192,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.WrapperTest3" />
-        <item itemvalue="Application.WrappeTest2" />
+        <item itemvalue="Application.WrapperTest2" />
         <item itemvalue="Application.WrapperTest1" />
         <item itemvalue="Application.RandomMain" />
         <item itemvalue="Application.MathMain" />
@@ -232,7 +232,7 @@
       <workItem from="1732263332020" duration="859000" />
       <workItem from="1732352411429" duration="8562000" />
       <workItem from="1732619491100" duration="3072000" />
-      <workItem from="1732891485878" duration="653000" />
+      <workItem from="1732891485878" duration="2140000" />
     </task>
     <servers />
   </component>
