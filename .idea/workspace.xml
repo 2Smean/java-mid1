@@ -43,6 +43,7 @@
     "Application.ImmutableMain2.executor": "Run",
     "Application.LoopStringBuilderMain.executor": "Run",
     "Application.LoopStringMain.executor": "Run",
+    "Application.LottoGeneratorMain.executor": "Run",
     "Application.MathMain.executor": "Run",
     "Application.MemberMainV1.executor": "Run",
     "Application.MemberMainV2.executor": "Run",
@@ -123,13 +124,13 @@
       <recent name="lang.immutable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WrapperTest3">
-    <configuration name="MathMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.math.MathMain" />
+  <component name="RunManager" selected="Application.LottoGeneratorMain">
+    <configuration name="LottoGeneratorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.math.test.LottoGeneratorMain" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.math.*" />
+          <option name="PATTERN" value="lang.math.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LottoGeneratorMain" />
         <item itemvalue="Application.WrapperTest3" />
         <item itemvalue="Application.WrapperTest2" />
         <item itemvalue="Application.WrapperTest1" />
         <item itemvalue="Application.RandomMain" />
-        <item itemvalue="Application.MathMain" />
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +234,7 @@
       <workItem from="1732352411429" duration="8562000" />
       <workItem from="1732619491100" duration="3072000" />
       <workItem from="1732891485878" duration="2140000" />
+      <workItem from="1733235977039" duration="702000" />
     </task>
     <servers />
   </component>
