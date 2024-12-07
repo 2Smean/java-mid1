@@ -10,9 +10,6 @@ public class LottoGeneratorMain {
         System.out.println("로또 번호: ");
         for (int lottoNumber : lottoNumbers) {
             System.out.print(lottoNumber + " ");
-
-
-            
         }
     }
 }
