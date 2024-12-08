@@ -36,7 +36,10 @@
     "Application.AutoboxingMain2.executor": "Run",
     "Application.CharArrayMain.executor": "Run",
     "Application.ClassCreateMain.executor": "Run",
+    "Application.ClassGradeEx2_1.executor": "Run",
+    "Application.ClassGradeEx2_2.executor": "Run",
     "Application.ClassMetaMain.executor": "Run",
+    "Application.ClassRefMain.executor": "Run",
     "Application.EqualsMainV1.executor": "Run",
     "Application.EqualsMainV2.executor": "Run",
     "Application.ImmutableMain1.executor": "Run",
@@ -120,20 +123,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="enumeration.ex2" />
       <recent name="enumeration.ex1" />
       <recent name="enumeration.ex0" />
       <recent name="lang.wrapper.test" />
       <recent name="lang.wrapper" />
-      <recent name="lang.string.builder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringGradeEx1_1">
-    <configuration name="LottoGeneratorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.math.test.LottoGeneratorMain" />
+  <component name="RunManager" selected="Application.ClassGradeEx2_2">
+    <configuration name="ClassGradeEx2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex2.ClassGradeEx2_1" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.math.test.*" />
+          <option name="PATTERN" value="enumeration.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +144,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringGradeEx0_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ex0.StringGradeEx0_1" />
+    <configuration name="ClassGradeEx2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex2.ClassGradeEx2_2" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.ex0.*" />
+          <option name="PATTERN" value="enumeration.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex2.ClassRefMain" />
+      <module name="java-mid1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumeration.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,26 +196,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest3" />
-      <module name="java-mid1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lang.wrapper.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassGradeEx2_2" />
+        <item itemvalue="Application.ClassGradeEx2_1" />
+        <item itemvalue="Application.ClassRefMain" />
         <item itemvalue="Application.StringGradeEx1_1" />
         <item itemvalue="Application.StringGradeEx0_2" />
-        <item itemvalue="Application.StringGradeEx0_1" />
-        <item itemvalue="Application.LottoGeneratorMain" />
-        <item itemvalue="Application.WrapperTest3" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +240,7 @@
       <workItem from="1732352411429" duration="8562000" />
       <workItem from="1732619491100" duration="3072000" />
       <workItem from="1732891485878" duration="2140000" />
-      <workItem from="1733235977039" duration="5413000" />
+      <workItem from="1733235977039" duration="6747000" />
     </task>
     <servers />
   </component>
