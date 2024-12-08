@@ -77,6 +77,7 @@
     "Application.StringEqualsMain2.executor": "Run",
     "Application.StringGradeEx0_1.executor": "Run",
     "Application.StringGradeEx0_2.executor": "Run",
+    "Application.StringGradeEx1_1.executor": "Run",
     "Application.StringImmutable1.executor": "Run",
     "Application.StringImmutable2.executor": "Run",
     "Application.StringInfoMain.executor": "Run",
@@ -119,14 +120,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="enumeration.ex1" />
       <recent name="enumeration.ex0" />
       <recent name="lang.wrapper.test" />
       <recent name="lang.wrapper" />
       <recent name="lang.string.builder" />
-      <recent name="lang.string.Chaining" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringGradeEx0_2">
+  <component name="RunManager" selected="Application.StringGradeEx1_1">
     <configuration name="LottoGeneratorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lang.math.test.LottoGeneratorMain" />
       <module name="java-mid1" />
@@ -166,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest2" />
+    <configuration name="StringGradeEx1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex1.StringGradeEx1_1" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.wrapper.test.*" />
+          <option name="PATTERN" value="enumeration.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringGradeEx1_1" />
         <item itemvalue="Application.StringGradeEx0_2" />
         <item itemvalue="Application.StringGradeEx0_1" />
         <item itemvalue="Application.LottoGeneratorMain" />
         <item itemvalue="Application.WrapperTest3" />
-        <item itemvalue="Application.WrapperTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +237,7 @@
       <workItem from="1732352411429" duration="8562000" />
       <workItem from="1732619491100" duration="3072000" />
       <workItem from="1732891485878" duration="2140000" />
-      <workItem from="1733235977039" duration="4726000" />
+      <workItem from="1733235977039" duration="5413000" />
     </task>
     <servers />
   </component>
