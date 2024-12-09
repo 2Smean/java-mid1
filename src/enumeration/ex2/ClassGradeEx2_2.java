@@ -13,5 +13,6 @@ public class ClassGradeEx2_2 {
         System.out.println("newclassGrade 등급의 할인 금액 : " + result);
 */
 
+        
     }
 }
