@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -38,8 +39,11 @@
     "Application.ClassCreateMain.executor": "Run",
     "Application.ClassGradeEx2_1.executor": "Run",
     "Application.ClassGradeEx2_2.executor": "Run",
+    "Application.ClassGradeEx3_1.executor": "Run",
+    "Application.ClassGradeEx3_2.executor": "Run",
     "Application.ClassMetaMain.executor": "Run",
     "Application.ClassRefMain.executor": "Run",
+    "Application.EnumRefMain.executor": "Run",
     "Application.EqualsMainV1.executor": "Run",
     "Application.EqualsMainV2.executor": "Run",
     "Application.ImmutableMain1.executor": "Run",
@@ -123,14 +127,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="enumeration.ex3" />
       <recent name="enumeration.ex2" />
       <recent name="enumeration.ex1" />
       <recent name="enumeration.ex0" />
       <recent name="lang.wrapper.test" />
-      <recent name="lang.wrapper" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassGradeEx2_2">
+  <component name="RunManager" selected="Application.ClassGradeEx3_2">
     <configuration name="ClassGradeEx2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="enumeration.ex2.ClassGradeEx2_1" />
       <module name="java-mid1" />
@@ -157,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ex2.ClassRefMain" />
+    <configuration name="ClassGradeEx3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex3.ClassGradeEx3_1" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.ex2.*" />
+          <option name="PATTERN" value="enumeration.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringGradeEx0_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ex0.StringGradeEx0_2" />
+    <configuration name="ClassGradeEx3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex3.ClassGradeEx3_2" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.ex0.*" />
+          <option name="PATTERN" value="enumeration.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringGradeEx1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ex1.StringGradeEx1_1" />
+    <configuration name="EnumRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex3.EnumRefMain" />
       <module name="java-mid1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.ex1.*" />
+          <option name="PATTERN" value="enumeration.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassGradeEx3_2" />
+        <item itemvalue="Application.EnumRefMain" />
+        <item itemvalue="Application.ClassGradeEx3_1" />
         <item itemvalue="Application.ClassGradeEx2_2" />
         <item itemvalue="Application.ClassGradeEx2_1" />
-        <item itemvalue="Application.ClassRefMain" />
-        <item itemvalue="Application.StringGradeEx1_1" />
-        <item itemvalue="Application.StringGradeEx0_2" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +244,7 @@
       <workItem from="1732352411429" duration="8562000" />
       <workItem from="1732619491100" duration="3072000" />
       <workItem from="1732891485878" duration="2140000" />
-      <workItem from="1733235977039" duration="7485000" />
+      <workItem from="1733235977039" duration="9012000" />
     </task>
     <servers />
   </component>
