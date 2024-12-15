@@ -16,5 +16,6 @@ public class EnumRefMain {
         // System.identityHashCode() - 자바가 관리하는 객체의 참조값을 숫자로 반환한다.
         // Integer.toHexString() - 숫자를 16진수로 변환
         return Integer.toHexString(System.identityHashCode(grade));
+        
     }
 }
